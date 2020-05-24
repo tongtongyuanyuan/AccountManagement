@@ -1,2 +1,2 @@
 # AccountManagement
-UsingSpringBoot to design an AccooutManagement
+UsingSpringBoot to design an AccountManagement
